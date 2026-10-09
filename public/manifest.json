@@ -1,0 +1,21 @@
+{
+  "name": "Literary Society UET",
+  "short_name": "LSUET",
+  "description": "Official management platform for the Literary Society UET.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C32363",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
